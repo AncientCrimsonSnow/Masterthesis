@@ -1,0 +1,15 @@
+#Directiory
+.vs/
+/bin/
+bin-int/
+
+#Files
+*.user
+Gengine.sln
+Gengine/Gengine.vcxproj
+Gengine/Gengine.vcxproj.filters
+Sandbox/imgui.ini
+Sandbox/Sandbox.vcxproj
+Sandbox/Sandbox.vcxproj.filters
+/Gengine/vendor/Glad/bin/Debug-windows-x86_64/Glad
+/Gengine/vendor/Glad/bin
